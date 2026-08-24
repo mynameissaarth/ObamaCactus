@@ -26,11 +26,9 @@ ObamaScript currently supports several types of values.
 
 ### Numbers
 
-Numbers can be integers or decimal numbers.
 
 ```obama
 set age to 13
-set pi to 3.14
 ```
 
 ### Strings
@@ -300,8 +298,6 @@ difference =
 5
 product =
 50
-division =
-2
 ```
 
 ---
@@ -374,7 +370,6 @@ out("b =", b)
 out("sum =", sum(a, b))
 out("difference =", sub(a, b))
 out("product =", mult(a, b))
-out("division =", div(a, b))
 ```
 
 ---
